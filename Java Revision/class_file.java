@@ -1,6 +1,6 @@
 public class class_file {
     public static void main(String[] args) {
-        System.out.println("Use of class");
+        System.out.println("Use of class ");
 
 
     }
